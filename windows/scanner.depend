@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1724862333 source:c:\dev\scanner\jpeg.c
+	<stdbool.h>
+	"jpeg.h"
+	"reader.h"
+
+1724858472 c:\dev\scanner\jpeg.h
+	<stdio.h>
+	<stdint.h>
+
+1724858490 c:\dev\scanner\reader.h
+	<stdint.h>
+
+1724859324 source:c:\dev\scanner\reader.c
+	"reader.h"
+	<stdio.h>
+
+1724864317 source:c:\dev\scanner\main.c
+	<time.h>
+	"reader.h"
+	"jpeg.h"
+
